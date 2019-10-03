@@ -1,6 +1,6 @@
 // -----------------------------------
 
-// Mutation
+// Mutation Algorithm 
 
 function res(arr) {
     const lowerCase = arr.map( s => s.toLowerCase())
