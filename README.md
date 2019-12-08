@@ -2,3 +2,5 @@
 There is my own Solution of FreeCodeCamp Algorithms
 
 This is all the beginnner level algorithm on freecodecamp
+
+READ instructions before making any pull requests. 
